@@ -1,6 +1,6 @@
 # chat
 
-A new Flutter project.
+A new Flutter project with messages saved in Firestore Database and Users Authentication.
 
 ## Getting Started
 
